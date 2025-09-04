@@ -1,2 +1,26 @@
-# Exploratory-Data-Analysis-on-Iris-Dataset
-Exploratory Data Analysis on Iris Dataset
+Exploratory-Data-Analysis-on-Iris-Dataset
+
+Περιγραφή
+Σε αυτό το project μελετάμε το Iris dataset, ένα από τα πιο κλασικά σύνολα δεδομένων στη μηχανική μάθηση.  
+Στόχος είναι η εξάσκηση στην εξερευνητική ανάλυση δεδομένων (EDA) με χρήση pandas, seaborn, matplotlib.
+
+Τι περιλαμβάνει
+- Επισκόπηση δεδομένων (head, info, describe)
+- Έλεγχος κατηγοριών (species)
+- Στατιστικά για αριθμητικές μεταβλητές
+- Οπτικοποιήσεις:
+  - Ιστόγραμμα κατανομής μήκους πετάλου
+  - Barplot μέσου μήκους πετάλου ανά είδος
+  - Scatterplot sepal_length vs sepal_width
+  - Pairplot για όλες τις μεταβλητές
+
+Τεχνολογίες
+- Python
+- pandas
+- seaborn
+- matplotlib
+
+ Μαθαίνουμε
+- Πώς να κάνουμε γρήγορη εξερεύνηση dataset
+- Πώς να εντοπίζουμε σχέσεις μεταξύ χαρακτηριστικών
+- Βασικά εργαλεία visualization για παρουσίαση δεδομένων
